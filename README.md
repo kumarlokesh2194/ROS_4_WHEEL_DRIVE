@@ -6,4 +6,4 @@ For the files to work follow the steps:
 3. Don't forget to source the path by using source ./devel/setup.bash
 4. Once finished, for spawning the bot in gazebo run: roslaunch my_gazebo simple_diffdrive.launch
 
-Enjoy learning, suggestions are welcomed I Would be updating the repository by adding some more functionality to the 4 wheel drive.
+
